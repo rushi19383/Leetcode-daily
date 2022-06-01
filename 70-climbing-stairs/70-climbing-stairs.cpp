@@ -1,25 +1,23 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-//        if(n <= 0) return 0;
-//     if(n == 1) return 1;
-//     if(n == 2) return 2;
-//          int one_step_before = 2;
-//     int two_steps_before = 1;
-//     int all_ways = 0;
+//     int dp[46];
+// int climbStairs(int n) {
+
+//   if(dp[n]!=0) return dp[n];
+  
+//   if(n==1 || n==2) return n;
+//   dp[n]=climbStairs(n-1)+climbStairs(n-2);
+//   return dp[n];
+  
     
-//     for(int i=2; i<n; i++){
-//     	all_ways = one_step_before + two_steps_before;
-//     	two_steps_before = one_step_before;
-//         one_step_before = all_ways;
-//     }
-//     return all_ways;
-        int p = 1, q = 1;
- for (int i = 2; i <= n; i++) {
- int temp = q;
- q += p;
- p = temp;
- }
- return q;
+// }
+    int dp[46];
+    
+    int climbStairs(int n) {
+    
+        if(dp[n]!=0) return dp[n];
+        if(n==1 || n==2) return n;
+        return dp[n]=climbStairs(n-1)+climbStairs(n-2);
+    
     }
 };
