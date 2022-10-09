@@ -11,28 +11,14 @@
  */
 class Solution {
 public:
-    vector<int>v;
-    
-    void inorder(TreeNode* root){
-        if(!root)return;
-        inorder(root->left);
-        v.push_back(root->val);
-        inorder(root->right);
-        
-        
+    set<int>s;
+    bool dfs(TreeNode* root,int k){
+        if(!root)return false;
+        if(s.find(k-root->val)!=s.end())return true;
+        s.insert(root->val);
+        return dfs(root->left,k) || dfs(root->right,k);
     }
     bool findTarget(TreeNode* root, int k) {
-        inorder(root);
-        
-        int l=0;
-        int r=v.size()-1;
-        while(l<r){
-            if(v[l]+v[r]==k)return true;
-            else if(v[l]+v[r]<k)l++;
-            else r--;
-            
-        }
-        return false;
-        
+        return dfs(root,k);
     }
 };
