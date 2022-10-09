@@ -19,6 +19,9 @@ public:
         return dfs(root->left,k) || dfs(root->right,k);
     }
     bool findTarget(TreeNode* root, int k) {
-        return dfs(root,k);
+         if(!root)return false;
+        if(s.find(k-root->val)!=s.end())return true;
+        s.insert(root->val);
+        return findTarget(root->left,k) || findTarget(root->right,k);
     }
 };
