@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/rushi19383/Leetcode-daily/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/rushi19383/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rushi19383/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/rushi19383/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rushi19383/Leetcode-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rushi19383/Leetcode-daily/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rushi19383/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rushi19383/Leetcode-daily/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rushi19383/Leetcode-daily/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
