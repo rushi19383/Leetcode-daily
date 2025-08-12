@@ -44,6 +44,7 @@
 | [0048-rotate-image](https://github.com/rushi19383/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rushi19383/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rushi19383/Leetcode-daily/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/rushi19383/Leetcode-daily/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rushi19383/Leetcode-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -52,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rushi19383/Leetcode-daily/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rushi19383/Leetcode-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rushi19383/Leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -59,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rushi19383/Leetcode-daily/tree/master/0055-jump-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rushi19383/Leetcode-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Hash Table
 |  |
