@@ -56,6 +56,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/rushi19383/Leetcode-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rushi19383/Leetcode-daily/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rushi19383/Leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rushi19383/Leetcode-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rushi19383/Leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -84,6 +85,7 @@
 | [0009-palindrome-number](https://github.com/rushi19383/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rushi19383/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rushi19383/Leetcode-daily/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rushi19383/Leetcode-daily/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rushi19383/Leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 ## Sorting
 |  |
