@@ -1,18 +1,12 @@
 class Solution {
 public:
-
-
     int climbStairs(int n) {
-        // if(n<=1) return 1;
-        // return climbStairs(n-1) + climbStairs(n-2);
-
-
-         int prev = 1,prev2 =1;
-        for(int i =2;i<=n;i++){
-            int curri = prev + prev2;
-            prev = prev2;
-            prev2 = curri;
+        vector<int>st(n+1,0);
+        st[0]=1;
+        st[1]=1;
+        for(int i=2;i<=n;i++){
+            st[i]=st[i-1]+st[i-2];
         }
-        return prev2;
+        return st[n];
     }
 };
