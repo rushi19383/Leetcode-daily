@@ -49,6 +49,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rushi19383/Leetcode-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rushi19383/Leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rushi19383/Leetcode-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@
 | [0048-rotate-image](https://github.com/rushi19383/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rushi19383/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +114,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rushi19383/Leetcode-daily/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
