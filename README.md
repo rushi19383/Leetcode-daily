@@ -47,6 +47,7 @@
 | [0055-jump-game](https://github.com/rushi19383/Leetcode-daily/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/rushi19383/Leetcode-daily/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/rushi19383/Leetcode-daily/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rushi19383/Leetcode-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
@@ -80,6 +81,7 @@
 | [0048-rotate-image](https://github.com/rushi19383/Leetcode-daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rushi19383/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/rushi19383/Leetcode-daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
 ## Math
 |  |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rushi19383/Leetcode-daily/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/rushi19383/Leetcode-daily/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -117,6 +120,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rushi19383/Leetcode-daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -126,4 +130,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rushi19383/Leetcode-daily/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rushi19383/Leetcode-daily/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
