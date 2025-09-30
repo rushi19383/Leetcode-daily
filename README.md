@@ -75,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/rushi19383/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rushi19383/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rushi19383/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -96,10 +97,12 @@
 | [0049-group-anagrams](https://github.com/rushi19383/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rushi19383/Leetcode-daily/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rushi19383/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rushi19383/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rushi19383/Leetcode-daily/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rushi19383/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
