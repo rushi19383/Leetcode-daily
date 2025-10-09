@@ -62,6 +62,7 @@
 | [0139-word-break](https://github.com/rushi19383/Leetcode-daily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rushi19383/Leetcode-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rushi19383/Leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0338-counting-bits](https://github.com/rushi19383/Leetcode-daily/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rushi19383/Leetcode-daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Greedy
 |  |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rushi19383/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/rushi19383/Leetcode-daily/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
